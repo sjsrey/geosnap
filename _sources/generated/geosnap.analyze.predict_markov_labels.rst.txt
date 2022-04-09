@@ -1,0 +1,6 @@
+﻿geosnap.analyze.predict\_markov\_labels
+=======================================
+
+.. currentmodule:: geosnap.analyze
+
+.. autofunction:: predict_markov_labels
